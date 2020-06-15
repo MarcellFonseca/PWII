@@ -1,0 +1,24 @@
+<?php
+$Sl = 5000;
+//Definindo a variavel para o salario
+function vinte($Sl){
+    //Calculando o bonus de 20%
+    $P = ($Sl20)/100;
+    echo "O diretor ira receber $P R$ de bonus <br/>";
+}
+function dez($Sl){
+    //Calculando o bonus de 10%
+    $P = ($Sl10)/100;
+    echo "O funcionario ira receber $P R$ de bonus <br/>";
+}
+function cinco($Sl){
+    //Calculando o bonus de 5%
+    $P = ($Sl*5)/100;
+    echo "O estagiario ira receber $P R$ de bonus";
+}
+vinte($Sl);
+
+dez($Sl);
+
+cindo($Sl);
+?>
