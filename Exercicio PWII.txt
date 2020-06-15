@@ -1,5 +1,5 @@
 <?php
-$Sl = 5000;
+$Sl = 2500;
 //Definindo a variavel para o salario
 function vinte($Sl){
     //Calculando o bonus de 20%
